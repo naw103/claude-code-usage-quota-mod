@@ -45,6 +45,8 @@ On course to run out, it warns you and says **when you'll hit the limit**:
 
 On course to leave **10% or more of your weekly limit unused**, it says how much, and what would use it before the weekly reset:
 
+![The band, expanded, on course to leave 32% of the weekly limit unused](docs/unused-expanded.png)
+
 ![The band, collapsed, on course to leave 32% of the weekly limit unused](docs/unused-collapsed.png)
 
 - A 5 hour window starts with your first message, so idle time costs nothing: what expires is the **weekly limit left at its reset**.
